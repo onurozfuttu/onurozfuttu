@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently learning **Playwright, Cypress**
 
-- ☁️ I've keen interest in parallel execution. So,I'm learning **Jenjins**
+- ☁️ I've keen interest in parallel execution. So,I'm learning **Jenkins**
 
 - 💬 Ask me about **functional testing**
 
