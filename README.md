@@ -27,7 +27,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Selenium, Cucumber, TestNG, JUnit, PostgreSQL pgAdmin, Appium**
+- 🔭 I’m currently working on **Selenium, Cucumber, TestNG, JUnit, PostgreSQL(w. pgAdmin 4), Appium, PostMAN, RestAssured, KARATE**
 
 - 🌱 I’m currently learning **Playwright, Cypress**
 
